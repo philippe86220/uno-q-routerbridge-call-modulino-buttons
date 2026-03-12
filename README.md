@@ -131,3 +131,22 @@ It demonstrates how `Bridge.call()` enables **on-demand service requests** in th
 - RPC (Remote Procedure Call)
 - MCU ↔ MPU hybrid architecture
 - Event-driven systems
+
+## Example output
+
+The following screenshot shows the MCU requesting the system time from the MPU when a Modulino button is pressed.
+
+![RouterBridge call example](doc/screenshot.png)
+
+
+## Contribution
+
+This example was developed by **Philippe86220**.
+
+The explanation of the RouterBridge architecture and the practical demonstration of `Bridge.call()` were prepared with the assistance of **ChatGPT (OpenAI)**.
+
+The goal of this repository is educational:  
+to illustrate how the MCU of the Arduino UNO Q can request a service from the MPU exactly when it needs it.
+
+---
+
