@@ -136,7 +136,7 @@ It demonstrates how `Bridge.call()` enables **on-demand service requests** in th
 
 The following screenshot shows the MCU requesting the system time from the MPU when a Modulino button is pressed.
 
-![RouterBridge call example](doc/screenshot1.png)
+![RouterBridge call example](doc/screenshot.png)
 ![RouterBridge call example](doc/screenshot.jpg)
 
 ## Contribution
